@@ -1,0 +1,10 @@
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const target = document.querySelector('#bh-pagefind');
+    if (target && typeof PagefindUI !== 'undefined') {
+      new PagefindUI({ element: '#bh-pagefind', showSubResults: true, resetStyles: false });
+    }
+  });
+</script>

@@ -1,0 +1,17 @@
+# Introduction {#sec-introduction}
+
+This collection brings together the currently available publication editions of Bahá’u’lláh's writings. The tablets are arranged in numerical order by their BH identifiers. The order is provisional and does not imply chronology.
+
+The texts preserve the original-language passage, transliteration, and contemporary English translation from the publication editions.
+
+::: {.content-visible when-format="html"}
+## Search the collection
+
+<div id="bh-pagefind" role="search" aria-label="Search publication text"></div>
+
+[Download the combined PDF](Bahaullah_Translations.pdf) (available after running `--build-all`).
+
+<noscript>Enable JavaScript to search the collection. The chapter navigation remains available without it.</noscript>
+:::
+
+**Tablets in this edition:** 4.

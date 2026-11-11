@@ -1,0 +1,6 @@
+# Prebuilt static deployment. The Python publication script runs LOCALLY.
+# In Netlify, set Base directory to "BH pubs" and leave Build command EMPTY.
+# If the Base directory remains the repository root, set Publish directory
+# to "BH pubs/_site" in Netlify UI instead.
+[build]
+  publish = "_site"
