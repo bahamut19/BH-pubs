@@ -14,14 +14,19 @@ book:
 
 lang: en
 babeloptions: bidi=bidi
+# Paragraph headings already contain their intended numbers (1, 2, 3...).
+# Disable automatic Quarto chapter/section numbering for every output.
+number-sections: false
 
 format:
   html:
+    number-sections: false
     theme: cosmo
     toc: true
     search: false
     include-after-body: _pagefind_includes.html
   pdf:
+    number-sections: false
     pdf-engine: xelatex
     documentclass: scrbook
     geometry: margin=1in
