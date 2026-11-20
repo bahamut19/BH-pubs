@@ -1,6 +1,6 @@
 {
   "generator": "Bahaullah_Publication_Script.py",
-  "generated_at_utc": "2026-11-18T00:53:22.863499+00:00",
+  "generated_at_utc": "2026-11-19T02:33:47.298045+00:00",
   "source_directory": "C:\\Users\\joshu\\Documents\\Crimson Ark Media Translation Project\\output",
   "tablets": [
     {
@@ -26,6 +26,10 @@
     {
       "id": "BH00006",
       "source": "C:\\Users\\joshu\\Documents\\Crimson Ark Media Translation Project\\output\\BH00006\\BH00006_pub.qmd"
+    },
+    {
+      "id": "BH00007",
+      "source": "C:\\Users\\joshu\\Documents\\Crimson Ark Media Translation Project\\output\\BH00007\\BH00007_pub.qmd"
     },
     {
       "id": "BH11924",

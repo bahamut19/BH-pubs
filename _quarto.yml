@@ -13,6 +13,7 @@ book:
     - "chapters/BH00004.qmd"
     - "chapters/BH00005.qmd"
     - "chapters/BH00006.qmd"
+    - "chapters/BH00007.qmd"
     - "chapters/BH11924.qmd"
 
 lang: en
