@@ -14,6 +14,14 @@ book:
     - "chapters/BH00005.qmd"
     - "chapters/BH00006.qmd"
     - "chapters/BH00007.qmd"
+    - "chapters/BH00008.qmd"
+    - "chapters/BH00009.qmd"
+    - "chapters/BH00010.qmd"
+    - "chapters/BH00011.qmd"
+    - "chapters/BH00012.qmd"
+    - "chapters/BH00013.qmd"
+    - "chapters/BH00014.qmd"
+    - "chapters/BH00015.qmd"
     - "chapters/BH11924.qmd"
 
 lang: en

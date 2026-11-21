@@ -14,4 +14,4 @@ The texts preserve the original-language passage, transliteration, and contempor
 <noscript>Enable JavaScript to search the collection. The chapter navigation remains available without it.</noscript>
 :::
 
-**Tablets in this edition:** 8.
+**Tablets in this edition:** 16.
